@@ -57,5 +57,7 @@ Customer.read_all
 Film.read_all
 Ticket.read_all
 
+customer1.films
+
 binding.pry
 nil
